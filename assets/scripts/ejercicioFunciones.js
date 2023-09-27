@@ -28,6 +28,3 @@ function prepararLimonada(cantidadDeLimon) {
 //LLamamos a la función principal para preparar la limonada
 var vasoDeLimonada = false;
 prepararLimonada(5); //Llamado de programa
-
-
-//Programa para verificar un proceso dentro del consultorio dental
